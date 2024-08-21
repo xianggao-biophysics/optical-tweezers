@@ -1,0 +1,14 @@
+Open the Setup 4 Control Software.lvproj
+
+Under the Task.lvlib create a new class and name it after the task you will be creating.
+Save the new class that is generated.  Create a folder for the task that has the same name as the task.
+Create the private data by selecting a type def for the task data.
+
+
+task functions that must be overwritten:
+
+) get description
+) edit parameters
+) write parameters
+) read parameters
+) Run
